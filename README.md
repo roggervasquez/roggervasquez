@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @roggervasquez
-- 👀 I’m interested in Salesforce Developmentb/ Unity3D / Blockchain
+- 👀 I’m interested in Salesforce Developmentb
   
 <!---
 roggervasquez/roggervasquez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
